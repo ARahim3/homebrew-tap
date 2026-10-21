@@ -1,6 +1,6 @@
 cask "digup" do
-  version "0.6.1"
-  sha256 "47ebbd404d31cf57df63b62e60a14522654172855e245c9a2c121b613223f8a2"
+  version "0.6.2"
+  sha256 "043033bdbe0c7c5fcb56545711c19d0ccf2cb9be58798d0e47f7c35e902cc5fd"
 
   url "https://github.com/ARahim3/DigUp/releases/download/v#{version}/DigUp-#{version}.dmg"
   name "DigUp"
